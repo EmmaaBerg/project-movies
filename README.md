@@ -11,8 +11,6 @@ Our plan from the beginning was to have a solid structure and then work from the
 We created three components of which one was the main component where we used all logic, the purpose was to keep the app.js clean from code. 
 
 
-If we had more time (read: energy) we would try the styled components and also spend more time on the CSS. 
-
 ## View it live
 
 https://w12-project-movies.netlify.app/
